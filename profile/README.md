@@ -55,7 +55,10 @@ PDF_Service_Data is a specialised Java-based processing engine designed to trans
 - Metadata Identification: Extracts relevant metadata information from document structures like the total number of pages, exact size (height/width).
 - Page Duplicate Removal: Assigns a unique hash value to each page; any duplicates are removed automatically.
 - Stateless Architecture: Built on a stateless architecture for horizontal scalability.
-  
+
+## Project Setup
+Each repository will contain README.md instructions on how to configure, run and test each respository.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.

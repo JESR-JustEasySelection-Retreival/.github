@@ -56,6 +56,14 @@ PDF_Service_Data is a specialised Java-based processing engine designed to trans
 - Page Duplicate Removal: Assigns a unique hash value to each page; any duplicates are removed automatically.
 - Stateless Architecture: Built on a stateless architecture for horizontal scalability.
 
+## Project Demonstration
+### Login Page
+| Initial Page  | Missing Required Fields | Incorrect Credentials |
+| :---: | :---: | :---: |
+| <img width="239" height="290" alt="image" src="https://github.com/user-attachments/assets/b47abadf-9ed6-4392-9b37-0de5e54de7bd" /> | <img width="239" height="290" alt="image" src="https://github.com/user-attachments/assets/ba976d28-58c2-4773-a471-47810009da06" />  | <img width="239" height="290" alt="image" src="https://github.com/user-attachments/assets/3ded6071-1b01-41d4-9e09-df2bf753774c" /> |
+| Image showing the extreamly basic login UI, containing both a login and register page.  | Shows an error message that informs that both fields must be filled before they attempt to login.  | Informs the user that the server has returned 403 forbidden.  |
+
+
 ## Project Setup
 Each repository will contain README.md instructions on how to configure, run and test each respository.
 
